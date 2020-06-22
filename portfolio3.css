@@ -1,0 +1,33 @@
+body {
+	font-size: 14px;
+	background-image: url("Fon/pic-1.jpg");
+	background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100% 110%; 
+    min-height: 900px;
+
+}
+
+header {
+	font-size: 30px;
+	padding-left: 0;
+}
+
+h1 {
+	padding-left: 530px;
+	font-size: 40px;
+	font-family: Comic Sans MS;
+	margin-top: 10px;
+}
+
+section {
+	font-size: 28px;
+	padding-left: 70px;
+	margin-right: 40px;
+	border: 12px;
+}
+
+p {
+	text-indent: 40px;
+	margin:0;
+}

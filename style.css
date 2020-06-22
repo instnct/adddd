@@ -1,0 +1,47 @@
+body {
+	font-size: 14px;
+	background-image: url("pic-5.jpg");
+	background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100% 100%;
+    min-height: 800px;
+}
+
+header {
+	padding-left: 950px; 
+}
+
+h1 {
+	padding-top: 10px;
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+nav {
+	font-size: 40px;
+	padding-left: 50px;
+	padding-top: 40px;
+	font-family: Comic Sans MS;
+	color: #fc4;
+}
+/*
+.oSebe {
+	border: 5px double black;
+	margin-right: 70%;
+	color: red;
+}
+
+.vdohnovenie {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 5px double black;
+	margin-right: 32%;
+	color: orange;
+}
+
+.celi {
+	border: 5px double black;
+	margin-right: 70%;
+	color: yellow;
+}
